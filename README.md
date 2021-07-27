@@ -1,6 +1,6 @@
-# awesome-finance
+# awesome-biz-fin-econ-tech
 
-An awesome collection of finance related materials. 
+An awesome collection of Business, Finance, Economics -- and its intersections with technology -- related materials. 
 
 
 ## Tools
