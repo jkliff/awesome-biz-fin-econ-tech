@@ -9,23 +9,37 @@ An awesome collection of Business, Finance, Economics -- and its intersections w
 
 ## Books
 
-- Macroeconomics, Mankiw
+
 
 ### Economics
+
+- Macroeconomics, Mankiw
+- Modern Money Theory
 
 ### Markets (investment, speculation, yolo)
 
 - A Random Walk Down Wall Street
 - Securities Analysis
 - The Intelligent Investor
+- Irrational Exhuberance
+- Aktien für die Ewigkeit
 
 ### History
 
 - A Concise Economic History of the World
+- A History of Economic Theory and Method
+- The Penguin History of Economics
 
 ### Business
 
 - On Strategy - HBR's 10 Must Reads
+
+#### Companies
+
+- Bad Blood (Theranos)
+- If Then
+- The Soul of a New Machine
+- The Four
 
 ### General
 
@@ -34,10 +48,7 @@ An awesome collection of Business, Finance, Economics -- and its intersections w
 - Understanding Organizations
 - A Short History of Brexit
 - The European Union: A Citizen's Guide
-
-
-
-### Investing/Trading
+- Good Economics for Bad Times
 
 ## Online resources
 
